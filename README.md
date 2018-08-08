@@ -19,8 +19,10 @@ let input = 0;
 
 exercises & study links.  
 [replit](https://repl.it/@colevandersWands/snippets-day-3)
-[pytut]
-	sketches you made
+[pytut]  
+* sketches you made
+![snippet-image](https://github.com/devendrk/incremental-operators/blob/master/WIN_20180808_13_23_55_Pro.jpg?raw=true)
+	
   
 
 review
